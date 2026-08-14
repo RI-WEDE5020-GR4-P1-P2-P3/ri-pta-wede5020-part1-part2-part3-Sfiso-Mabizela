@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pre-Order & Enquiry | Lizzie's Kitchen</title>
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    
+ <header>   
+</header>
+  <ul>  
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="service.html">Menu</a></li>
+                <li><a href="enquiry.html">Pre-Order / Enquiry</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+  </ul>
+</nav>
+</header>
+
+<main>
+        <section>
+            <h2>Pre-Order Pickup & Catering Form</h2>
+            <p>Skip the line! Fill out this form to pre-order your meal for pickup or inquire about large catering orders.</p>
+
+            <form action="#" method="post">
+                <p>
+                    <label for="fullname">Full Name:</label><br>
+                    <input type="text" id="fullname" name="fullname" required>
+                </p>
+
+                <p>
+                    <label for="phone">Phone Number:</label><br>
+                    <input type="tel" id="phone" name="phone" required>
+                </p>
+
+                <p>
+                    <label for="location">Preferred Pickup Branch:</label><br>
+                    <select id="location" name="location">
+                        <option value="ext2">Ivory Park Ext 2 (Main Shop)</option>
+                        <option value="rank">Ivory Park Taxi Rank (Stall B)</option>
+                    </select>
+                </p>
+
+                <p>
+                    <label for="pickuptime">Collection Time:</label><br>
+                    <input type="time" id="pickuptime" name="pickuptime" required>
+                </p>
+
+                <p>
+                    <label for="orderdetails">Your Food Order / Inquiry Details:</label><br>
+                    <textarea id="orderdetails" name="orderdetails" rows="5" placeholder="E.g. 2x Full House Kotas with extra cheese, 1x Pap & Chuck" required></textarea>
+                </p>
+
+                <p>
+                    <button type="submit">Submit Pre-Order</button>
+                </p>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Lizzie's Kitchen | Built for WEDE5020 Project</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>
