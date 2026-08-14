@@ -37,7 +37,7 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 ## Changelog
 
 ### [v1.0.0] - Part 1 Submission Initial Setup
-* **Added:** Initial 5-page HTML structure (`index.html`, `about.html`, `products.html`, `enquiry.html`, `contact.html`).
+* **Added:** Initial 5-page HTML structure (`index.html`, `about.html`, `service.html`, `enquiry.html`, `contact.html`).
 * **Added:** Semantic HTML elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`, `<form>`).
 * **Added:** Basic image tags (`<img>`) with alt attributes and folder placeholders (`images/`, `css/`, `js/`).
 * **Added:** Working navigation menu links connecting all 5 pages.
@@ -45,4 +45,3 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 
 ## References
 * Duckett, J., 2011. *HTML and CSS: Design and Build Websites*. Indianapolis: John Wiley & Sons.
-*
