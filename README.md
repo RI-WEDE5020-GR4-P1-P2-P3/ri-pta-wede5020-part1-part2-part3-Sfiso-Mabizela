@@ -4,7 +4,7 @@
 
 ## Student Information
 * **Name:** Sfiso Mabizela
-* **Student Number:** [Your Student Number]
+* **Student Number:** ST10524619
 * **Module:** WEDE5020
 
 ## Project Overview
