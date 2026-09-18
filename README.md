@@ -67,13 +67,13 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 ## Responsive Testing Evidence
 
 ### Desktop View
-![Desktop View](images/laptop version.png)
+![Desktop View](images/laptop%20version.png)
 
 ### Tablet View
-![Tablet View](images/tablet version.png)
+![Tablet View](images/tablet%20version.png)
 
 ### Mobile View
-![Mobile View](images/mobile version.png)
+![Mobile View](images/mobile%20version.)
 
 ---
 
