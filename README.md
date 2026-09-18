@@ -45,3 +45,44 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 
 ## References
 * Duckett, J., 2011. *HTML and CSS: Design and Build Websites*. Indianapolis: John Wiley & Sons.
+
+## Part 2 Implementation & Visual Design
+
+### CSS Architecture & Base Styles
+* **External Stylesheet**: Linked `css/style.css` across all 5 HTML pages (`index.html`, `about.html`, `service.html`, `enquiry.html`, and `contact.html`).
+* **CSS Reset & Variables**: Applied a standard CSS reset (`* { margin: 0; padding: 0; box-sizing: border-box; }`) and defined CSS custom properties (`:root`) for color palette, typography, and transition speeds.
+* **Typography Scale**: Built a relative typography hierarchy using `rem` units for font sizes and line heights.
+* **Interactive Elements**: Implemented `:hover`, `:focus`, and `:active` pseudo-classes on navigation links, buttons, and form inputs for enhanced user feedback and accessibility.
+
+### Responsive Layouts & Breakpoints
+* **CSS Grid & Flexbox**: Utilized Flexbox for sticky navigation bar positioning and form element alignment. Applied CSS Grid for multi-column content displays (hero section, menu cards, and location details).
+* **Relative Units**: Employed relative units (`%`, `rem`, `vh`) for responsive padding, margins, and width limits.
+* **Media Query Breakpoints**:
+  * **Desktop (> 992px)**: Multi-column grid layout with expanded navigation bar.
+  * **Tablet (601px - 992px)**: 2-column grid structure with optimized card spacing.
+  * **Mobile (<= 600px)**: Single-column stacked layout with full-width buttons and form fields for mobile viewports.
+
+---
+
+## Responsive Testing Evidence
+
+### Desktop View
+![Desktop View](images/laptop%20version.png)
+
+### Tablet View
+![Tablet View](images/tablet%20version.png)
+
+### Mobile View
+![Mobile View](images/mobile%20version.png)
+
+---
+
+## Part 2 Changelog
+
+### [v2.0.0] - Part 2 Submission Update
+* **Added**: Created `css/style.css` external stylesheet and linked to all HTML pages.
+* **Added**: CSS media queries establishing tablet (`max-width: 992px`) and mobile (`max-width: 600px`) breakpoints.
+* **Styled**: Applied consistent color palette, typography scales, card shadows, and button hover animations.
+* **Styled**: Re-engineered pre-order/enquiry form controls with explicit borders, backgrounds, and focus rings.
+* **Updated**: Recorded responsive design evidence screenshots in `README.md`.
+*
