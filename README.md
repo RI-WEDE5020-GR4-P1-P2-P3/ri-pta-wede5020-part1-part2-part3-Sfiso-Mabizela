@@ -74,7 +74,16 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 
 ### Mobile View
 ![Mobile View](images/mobile-version.png)
+## Responsive Testing Evidence
 
+### Desktop View
+![Desktop View](https://raw.githubusercontent.com/Sfiso-Mabizela/ri-pta-wede5020-part1-part2-part3-Sfiso-Mabizela/main/images/laptop-version.jpg)
+
+### Tablet View
+![Tablet View](https://raw.githubusercontent.com/Sfiso-Mabizela/ri-pta-wede5020-part1-part2-part3-Sfiso-Mabizela/main/images/tablet-version.jpg)
+
+### Mobile View
+![Mobile View](https://raw.githubusercontent.com/Sfiso-Mabizela/ri-pta-wede5020-part1-part2-part3-Sfiso-Mabizela/main/images/mobile-version.jpg)
 ---
 
 ## Part 2 Changelog
