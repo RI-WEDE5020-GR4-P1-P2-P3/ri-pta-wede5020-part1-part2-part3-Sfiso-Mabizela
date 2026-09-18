@@ -73,7 +73,7 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 ![Tablet View](images/tablet-version.png)
 
 ### Mobile View
-![Mobile View](images/mobile-version.)
+![Mobile View](images/mobile-version.png)
 
 ---
 
