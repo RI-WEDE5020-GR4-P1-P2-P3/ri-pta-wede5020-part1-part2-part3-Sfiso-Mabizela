@@ -280,3 +280,13 @@ footer p {
         padding: 2.5rem 1rem;
     }
 }
+/* Resize all menu images */
+#service img, section img {
+    width: 100%;          /* Makes it responsive to the container */
+    max-width: 220px;     /* Controls the maximum width so they aren't huge */
+    height: 140px;        /* Sets a fixed, uniform height */
+    object-fit: cover;    /* Ensures images crop nicely without distorting */
+    border-radius: 8px;   /* Adds smooth rounded corners */
+    display: block;       /* Puts the image on its own clean line under the text */
+    margin-top: 8px;      /* Adds a little space between the text and image */
+}

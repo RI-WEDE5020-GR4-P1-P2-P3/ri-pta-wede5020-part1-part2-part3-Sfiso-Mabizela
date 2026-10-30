@@ -87,3 +87,36 @@ A responsive, 5-page promotional and pre-ordering website built for Lizzie's Kit
 * **Styled**: Re-engineered pre-order/enquiry form controls with explicit borders, backgrounds, and focus rings.
 * **Updated**: Recorded responsive design evidence screenshots in `README.md`.
 *
+
+# Lizzie's Kitchen - Web Development POE (Part 3)
+
+## Project Overview
+Lizzie's Kitchen is a local family-born street food business operating in Ivory Park, Midrand. This website allows customers to explore our street food menu (Kotas, Dagwoods, and Pap & Meat Platters) and submit pre-orders or inquiries online.
+
+---
+
+## Changelog & Version History
+
+### Part 3 Enhancements (Current Version)
+* **Client-Side Form Validation (`script.js`)**: Added JavaScript validation on `enquiry.html` to ensure required fields (Full Name, Location, Order Details) are filled and that phone numbers match a valid 10-digit South African format before submission.
+* **Dynamic Content Search (`script.js` & `service.html`)**: Implemented a real-time search and filter input on the menu page, allowing users to dynamically filter food items instantly as they type.
+* **SEO Optimization**: Added unique `<title>` tags and descriptive `<meta name="description">` tags to every HTML page (`index.html`, `about.html`, `service.html`, `enquiry.html`), and ensured all images use descriptive `alt` attributes.
+* **UI/UX Styling (`style.css`)**: Formatted and scaled menu product images using responsive CSS (`object-fit: cover`, max-widths, and padding) to create a clean, balanced layout.
+
+### Part 2 Features
+* Implemented multi-page site structure (Home, About, Services/Menu, Enquiry/Pre-order).
+* Built semantic HTML5 layout with navigation headers and footer areas.
+* Applied a cohesive visual theme ("Warm Red/Orange Theme" with Dark Slate and Golden Yellow accents).
+
+---
+
+## Testing & Responsiveness
+* Tested across multiple device screen sizes (mobile, tablet, desktop) using browser developer tools to ensure a fully responsive user experience.
+* Validated client-side form error handling and real-time JavaScript search filtering.
+
+---
+
+## Author
+* **Name:** Sfiso Mabizela
+* **Module Code:** WEDE5020 / ITPP5112
+*
